@@ -16,8 +16,6 @@ At Abbey Park High School Hack Club, we focus on:
 - **Sharing:** Showcase your projects, participate in hackathons, and collaborate with peers. 🌟
 - **Collaborating:** Be a part of a supportive community of students passionate about tech. 🤝💻
 
-![Coding Workshop](https://source.unsplash.com/featured/?coding)
-
 ## 👥 How to Join
 
 We meet **every Monday from 3-4** in **Room 219**. Anyone is welcome to join and no experience is required! 🗓️
